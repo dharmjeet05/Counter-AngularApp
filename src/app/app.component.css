@@ -19,3 +19,7 @@ button{
     border-radius: 15px;
     background-color: #ff00d4;
 }
+
+button:focus{
+    outline: 0;
+}
